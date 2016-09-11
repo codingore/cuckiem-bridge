@@ -1,3 +1,5 @@
 <?php
-header('Location: http://maikiem.com');
+
+header('Location: http://cuckiem.com');
+
 ?>
